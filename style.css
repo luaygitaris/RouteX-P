@@ -416,7 +416,6 @@ button:hover {
   justify-content: center;
   gap: 50px;
   margin-top: 100px;
-  font-family: "Plus Jakarta Sans", sans-serif;
 }
 .main-enam-judul {
   width: 848px;
@@ -493,7 +492,6 @@ button:hover {
   justify-content: center;
   gap: 50px;
   margin-top: 100px;
-  font-family: "Plus Jakarta Sans", sans-serif;
 }
 .grid-main-tujuh-satu {
   width: 300px;
@@ -571,7 +569,6 @@ button:hover {
   border-radius: 15px;
   color: white;
   padding: 60px 0;
-  font-family: "Plus Jakarta Sans", sans-serif;
 }
 
 /* main delapan */
@@ -582,7 +579,6 @@ button:hover {
   justify-content: center;
   gap: 50px;
   margin-top: 100px;
-  font-family: "Plus Jakarta Sans", sans-serif;
 }
 .main-delapan-judul {
   width: 970px;
@@ -625,7 +621,6 @@ button:hover {
   width: 320px;
   height: 100px;
   border-radius: 15px;
-  font-family: "Plus Jakarta Sans", sans-serif;
 }
 .grid-main-delapan-utama-satu-flex div {
   display: flex;
@@ -667,13 +662,11 @@ button:hover {
   color: #034833;
   align-items: center;
   font-size: 14px;
-  font-family: "Plus Jakarta Sans", sans-serif;
   gap: 10px;
   letter-spacing: 1.4px;
 }
 .our-couching-satu-satu h1 {
   color: #034833;
-  font-family: "Plus Jakarta Sans", sans-serif;
   width: 490px;
   padding-top: 10px;
 }
@@ -694,7 +687,6 @@ button:hover {
   justify-content: space-between;
   width: 500px;
   padding: 0 30px;
-  font-family: "Plus Jakarta Sans", sans-serif;
   border: 1px solid #d9d9d9;
   border-radius: 15px;
 }
@@ -756,7 +748,6 @@ button:hover {
   background-color: #83cd20;
   border-radius: 15px;
   padding: 0 50px;
-  font-family: "Plus Jakarta Sans", sans-serif;
 }
 .testimonial-grid-dua-satu {
   display: flex;
@@ -829,14 +820,12 @@ button:hover {
   align-items: center;
   justify-content: center;
   font-size: 14px;
-  font-family: "Plus Jakarta Sans", sans-serif;
   gap: 10px;
   letter-spacing: 1.4px;
   color: #034833;
 }
 .process-satu-satu h1 {
   color: #034833;
-  font-family: "Plus Jakarta Sans", sans-serif;
   width: 490px;
   padding-top: 10px;
 }
@@ -876,6 +865,7 @@ button:hover {
   margin: 25px 15px;
 }
 
+
 .recent {
   display: flex;
   flex-direction: column;
@@ -883,7 +873,6 @@ button:hover {
   justify-content: center;
   gap: 50px;
   margin-top: 100px;
-  font-family: "Plus Jakarta Sans", sans-serif;
 }
 .recent-judul {
   width: 970px;
